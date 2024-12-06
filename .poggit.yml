@@ -5,4 +5,5 @@ branches:
 projects:
   xSit:
     path: ""
+    icon: icon.png
 ...
