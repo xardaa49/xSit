@@ -1,5 +1,7 @@
 # xSit
 
+<a href="https://poggit.pmmp.io/p/xSit"><img src="https://poggit.pmmp.io/shield.api/xSit"></a>
+
 ### ✨ Description
 
 A plugin for PocketMine-MP that allows you to sit down or stand up from the floor.
