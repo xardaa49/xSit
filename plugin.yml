@@ -1,0 +1,22 @@
+##
+#               .oooooo..o  o8o      .
+#              d8P'    `Y8  `"'    .o8
+#  oooo    ooo Y88bo.      oooo  .o888oo
+#   `88b..8P'   `"Y8888o.  `888    888
+#     Y888'         `"Y88b  888    888
+#   .o8"'88b   oo     .d8P  888    888 .
+#  o88'   888o 8""88888P'  o888o   "888"
+##
+name: xSit
+main: xArdaa49\xSit\xSit
+Website: https://github.com/xArdaa49
+
+api: 5.0.0
+version: 1.0.0
+
+author: "xArdaa49"
+description: ""
+
+permissions:
+  xsit.permission.use:
+    default: true
