@@ -1,6 +1,7 @@
 # xSit
 
-<a href="https://poggit.pmmp.io/p/xSit"><img src="https://poggit.pmmp.io/shield.api/xSit"></a>
+[![](https://poggit.pmmp.io/shield.state/xSit)](https://poggit.pmmp.io/p/xSit)
+<a href="https://poggit.pmmp.io/p/xSit"><img src="https://poggit.pmmp.io/shield.state/xSit"></a>
 
 ### ✨ Description
 
